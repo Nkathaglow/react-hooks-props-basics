@@ -1,7 +1,7 @@
 import React from "react";
 import BlogContent from "./BlogContent";
 import Comment from "./Comment";
-
+//herros
 function BlogPost() {
   return (
     <div id="blog-post">
